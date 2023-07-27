@@ -2,7 +2,7 @@
 
 Este projeto é uma demonstração simples de modelagem e implementação em Java, representando um iPhone com funcionalidades de Reprodutor Musical e Navegador Web.
 
-![iPhone UML Diagram](image/iphone_uml_diagram.jpg)
+![iPhone UML Diagram](image/uml-diagram-img.jpg)
 
 ## Funcionalidades
 
